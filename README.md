@@ -8,4 +8,3 @@
     tomorrow will be dying
 
 this repository is used to study matlab which is an important tool for me 
-:sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles:v
